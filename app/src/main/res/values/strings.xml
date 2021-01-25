@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ahorcado</string>
+    <string name="todo">TODO</string>
+    <string name="txt_palabra">TextView</string>
+</resources>
